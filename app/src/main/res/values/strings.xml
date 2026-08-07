@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="module_name">拒绝强制亮度</string>
+    <string name="module_description">拒绝应用强制修改窗口亮度，始终跟随系统亮度</string>
+</resources>

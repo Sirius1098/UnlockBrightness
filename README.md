@@ -1,0 +1,1 @@
+基于 AI 使用 LibXposed API 102 重写[com.fankes.refusebrightness](https://github.com/Xposed-Modules-Repo/com.fankes.refusebrightness)
